@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_301"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/org.springframework.orm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/org.springframework.transaction-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-jcl-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-jdbc-3.2.4.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring hibernate jdbc/spring-tx-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/Hibernate 3_JAR/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring context 4.2.0/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shyam/Documents/Jars/spring context 4.2.0/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
